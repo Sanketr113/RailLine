@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "111004468830",
+    "project_id": "railline-e7d77",
+    "storage_bucket": "railline-e7d77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111004468830:android:68a3c0953c18ec562296cf",
+        "android_client_info": {
+          "package_name": "com.example.railline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111004468830-pqjrcn22i48o3bttsoqc6294tb90ndhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDsm5l_6byrSwq9Su7cZgaMSC41Y8KCI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111004468830-pqjrcn22i48o3bttsoqc6294tb90ndhk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
