@@ -1,7 +1,7 @@
 class MyRoutes {
   static String loginRoute = "/LoginPage";
-  static String homeRoute = "/HomePage";
-  static String AboutMeRoute = "/AboutMe";
-  static String signUpRoute = "/signUp";
-  static String ResetPasswordRoute = "/ResetPassword";
+  static String sampleRoute = "/Homepage";
+  static String DataRoute = "/Datapage";
+  static String ProfileRoute = "/Profile";
+  static String NavigationRoute = "/Navigation";
 }
